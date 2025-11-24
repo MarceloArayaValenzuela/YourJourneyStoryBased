@@ -1,0 +1,1 @@
+window.globalLoadJsAsset('story_content/5ietguDeox6_captions.js', {"captions":[{"langCode":"en-US","data":"WEBVTT%0D%0A%0D%0ANOTE%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.105.35604.0%0D%0A%0D%0A00:00:00.100%20--%3E%2000:00:04.967%0D%0A[Electric%20guitar%20playing%20a%20nice%20rhythmic%20soul%20song]%0D%0A%0D%0A"}]})
